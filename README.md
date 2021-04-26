@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trunk23
-- 👀 I’m 44 years old, and I'm interested in cinema, music, DIY work at home
+- - 👀 I’m french, I'm 44 years old, and I'm interested in cinema, music, DIY work at home
 - 🌱 I’m currently working as commercial engineer
 - 💞️ I’m looking to collaborate on helping kodi to be always better !
 
